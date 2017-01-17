@@ -1,0 +1,110 @@
+body{
+    background: #ddd;
+
+}
+
+.panel{
+    border-radius:12px; 
+}
+.margin-top {
+    margin-top: 1em;
+}
+.margin-top-lg {
+    margin-top: 7em;
+}
+.margin-top-md {
+    margin-top: 3.5em;
+}
+.margin-top-sm {
+    margin-top: 1em;
+}
+.margin-top-xsm{
+    margin-top: 6px;
+}
+
+/*background*/
+
+.s-background{
+    background: snow;
+}
+
+
+.margin-bottom{
+    margin-bottom: 1em;
+}
+
+.margin-right {
+    margin-right: 1em;
+}
+
+.margin-right-lg {
+    margin-right: 3em;
+}
+
+.margin-left-lg{
+
+    margin-left: 6em;
+}
+.margin-left{
+    margin-left: 4em;
+}
+.margin-left-sm{
+    margin-left: 8px;
+}
+
+.margin-left-md{
+
+    margin-left: 2em;
+
+}
+
+
+
+
+.padding-top{
+    padding-top: 
+}
+
+
+.padding-bottom{
+
+    padding-bottom: 12em;
+}
+
+.padding-left{
+    padding-left: 10px;
+}
+
+
+.padding-right{
+    padding-right: 14px;
+}
+
+.padding-rsm{
+    padding-right: 7px;
+}
+
+.padding{
+    padding: 10px;
+}
+
+
+
+/* background */
+
+
+
+.header-background{
+    background: #2f4f4f;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 8px;
+    font-size: 8em;
+    color: white;
+}
+
+.w-background{
+    background: white;
+    padding: 8px;
+    border-radius: 8px;
+}

@@ -1,0 +1,104 @@
+.font-xs {
+    font-size: .8em;
+}
+
+.font-sm {
+    font-size: 1.25em;
+}
+
+.font-md {
+    font-size: 1.75em;
+}
+.font-xmd{
+
+    font-size: 1.3em;
+}
+
+.font-lg {
+    font-size: 2em;
+}
+
+.font-xl {
+    font-size: 3em;
+}
+
+.font-xxl {
+    font-size: 4em;
+}
+
+.font-lg,.font-md,.font-sm,.font-xl,.font-xs {
+    font-family: jazeera,wellfleet;
+}
+.g-font{
+    font-size:1.8em;
+}
+
+/* ###################################################################################### */
+
+
+
+/* *********************************| arabic fonts |************************************* */
+
+
+@font-face {
+    font-family: lemonada-bold;
+    src: url('../fonts/lemonada-bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: lemonada;
+    src: url('../fonts/lemonada.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: mada-bold;
+    src: url('../fonts/mada-bold.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: maidan;
+    src: url('../fonts/maidan.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: bon;
+    src: url('../fonts/bon.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: jazeera;
+    src: url('../fonts/jazeera.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: tanseek;
+    src: url('../fonts/tanseek.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: camingo;
+    src: url('../fonts/en/camingo.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: pollarone;
+    src: url('../fonts/en/pollarone.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: pypats;
+    src: url('../fonts/en/pypats.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: wellfleet;
+    src: url('../fonts/en/wellfleet.ttf') format('truetype');
+}
+
+
+
+
+/* ###################################################################################### */

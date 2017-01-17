@@ -1,0 +1,72 @@
+/* *********************************| main Screen |************************************* */
+
+div {
+  cursor: default;
+}
+body {
+    background: #ddd;
+}
+
+.button {
+    font-size: 40px;
+    font-weight:bold;
+    border: none;
+    color: white;
+    padding: 30px 30px;
+    text-align: center;
+}
+
+
+textarea{
+    resize: none;
+}
+
+
+p {
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    font-family: jazeera;
+    cursor: default;
+}
+
+
+
+
+input[type='text'],input[type='password'],input[type='email'] {
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+    border-bottom-color: #5F9EA0;
+    border-top-color: #5F9EA0;
+    border-radius: 1px;
+    font-size: 16px;
+
+}
+
+select {
+    width: 100%;
+    padding: 0.5em;
+}
+
+input[type='checkbox'], input[type='radio'] {
+    cursor: pointer;
+}
+label {
+    cursor: pointer;
+}
+
+
+/* *********************************|  all site footer|************************************* */
+
+
+
+
+
+h4{
+font-size:18px ;
+
+}
+
+
